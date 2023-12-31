@@ -1,6 +1,12 @@
 package ArrayProblems;
 
 
+/* To copy elements from one array into another array
+ * 1. we need to initalize an array with elements.
+ * 2. we need to create an array of same length of 1st array.
+ * 3. we need to iterate the first array and copy the elements in second array.
+ */
+
 class CopyArrayElements {
  public static void main(String[] args) {
 
